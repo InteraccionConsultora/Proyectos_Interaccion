@@ -2,6 +2,12 @@
 title: Hoja de estilos
 ---
 
+<p align="center">
+  <a href="/Otros/Canal---Benavidez" class="image-container">
+    <img src="https://drive.google.com/uc?export=view&id=169IMZ0vWBvtwvexwHuoO-zr3_8ICKEGI" alt="Imagen 2" />
+  </a>
+</p>
+
 # Proyectos Interacción
 Proyectos Interacción
 
