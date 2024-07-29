@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "es-ES",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "https://interaccionconsultora.github.io/Proyectos_Interaccion/", //"quartz.jzhao.xyz", 
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
