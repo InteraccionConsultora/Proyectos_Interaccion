@@ -55,7 +55,7 @@ Algunos de ==Nuestros proyectos==
     <img src="imagenes\Estadio_Malvinas.jpg" alt="Imagen 1" >
   </a>
   <a href="/A--CONSULTORA/02--Obras/17--Reparación-dique-Cauquenes/Dique-cauquenes" class="image-container">
-    <img src="imagenes\Cauquenes.jpg" alt="Imagen 2" />
+    <img src="https://drive.google.com/uc?export=view&id=169IMZ0vWBvtwvexwHuoO-zr3_8ICKEGI" alt="Imagen 2" />
   </a>
   <a href="/Otros/Construccion-departamentos" class="image-container">
     <img src="imagenes\Departamento_4.jpg" alt="Imagen 2" />
