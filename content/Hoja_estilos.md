@@ -5,6 +5,7 @@ title: Hoja de estilos
 
 ![Imagen](https://drive.google.com/uc?export=view&id=169IMZ0vWBvtwvexwHuoO-zr3_8ICKEGI)
 
+![Imagen 2](https://drive.google.com/uc?export=view&id=1gGxkt9AHScdi-p2Hx4wOSFqcvOmtJkJM)
 
 # Proyectos Interacción
 Proyectos Interacción
