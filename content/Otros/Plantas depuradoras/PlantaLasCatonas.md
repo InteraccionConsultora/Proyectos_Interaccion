@@ -1,5 +1,5 @@
 ---
-title: acondicionamiento y ampliación de planta Las Catonas
+title: Acondicionamiento y ampliación de planta Las Catonas
 ---
 
 # Acondicionamiento y ampliación de planta Las Catonas
@@ -12,3 +12,7 @@ El objetivo del proyecto es realizar la ampliación y acondicionamiento de la Pl
 * Perfil hidráulico
 * P&ID
 * Elaboración de planos
+
+---
+
+#plantasTratamiento  #infraestructura  #hidráulica

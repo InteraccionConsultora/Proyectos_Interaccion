@@ -41,3 +41,6 @@ Características: Proceso de Revisión y Acompañamiento de la
 - Organización de la revisión de los Ensayos y Recepciones de Suministros en Fábrica.
   
 - Organización de la revisión de los Ensayos y Verificaciones Finales para la Puesta en Servicio.
+
+---
+#hidráulica #infraestructura

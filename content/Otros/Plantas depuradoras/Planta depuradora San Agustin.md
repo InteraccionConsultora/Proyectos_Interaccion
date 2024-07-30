@@ -35,6 +35,7 @@ La depuración es mediante tratamiento biológico facultativo, mediante una seri
 - 504 bocas de registro
 
 En total, la obra beneficia a 8030 Habitantes
+
 ---
 
-#plantasTratamiento
+#plantasTratamiento  #infraestructura  #hidráulica
