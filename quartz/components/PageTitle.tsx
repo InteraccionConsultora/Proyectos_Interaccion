@@ -8,7 +8,6 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const baseDir = pathToRoot(fileData.slug!)
   const imageUrl = "https://interaccionconsultora.github.io/Proyectos_Interaccion/imagenes/logo.png";
 
-
   return (
     <div>
       <img src={imageUrl} style={{ width: '300px', height: '93px' }} /> {/* Ajusta el tamaño y otros estilos según tus necesidades */}
