@@ -6,6 +6,11 @@ Desde Dirección de HIdráulica de San Juan se planteo determinar obras de prot
 
 ![alt text](Modelado_Hidrológico.png)
 
+```mermaid
+graph LR
+    A(Modelado Hidrológico) --> B(Métodos numéricos)
+    B --> D(Determinacion Obras)
+```
 
 ## Modelado hidrológico y determinación de caudales
 Se utilizo un método propuesto por el servicio de conservación de suelos de EEUU, el cual es un estandar en este tipo de estudios.
