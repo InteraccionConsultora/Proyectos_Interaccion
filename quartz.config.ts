@@ -23,20 +23,20 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Padauk",
-        body: "Padauk",
+        header: "Archivo",
+        body: "Archivo",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",       //Background
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: '#637f92', //"#284b63",
-          tertiary: '#899ca9',//"#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#faf8f8",       // page background
+          lightgray: "#e5e5e5",   // Borders
+          gray: "#646464",        // Graph link, heavy borders
+          darkgray: "#4e4e4e",    // Body text
+          dark: "#000000",        // Header text and icons
+          secondary: '#637f92',   // "#284b63",
+          tertiary: '#899ca9',    // "#84a59d",
+          highlight: "rgba(143, 159, 169, 0.15)",// resaltado
         },
         darkMode: {
           light: "#161618",

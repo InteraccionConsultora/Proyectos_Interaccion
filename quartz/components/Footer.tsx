@@ -15,16 +15,11 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <p>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
+          Creado por
+          <a href="https://www.interaccionconsultora.com/"> Interacción Consultora </a> y <a href="https://www.interaccionconsultora.com/"> Cielo Ferrer diseño gráfico </a>
+          con tecnología <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
-        <ul>
-          {Object.entries(links).map(([text, link]) => (
-            <li>
-              <a href={link}>{text}</a>
-            </li>
-          ))}
-        </ul>
+
       </footer>
     )
   }

@@ -10,16 +10,16 @@ title: Obras realizadas
   .image-container {
     display: inline-block;
     height: 150px; /* Ajusta la altura según tus necesidades */
-    width: calc(200px * 1.414); /* Relación A4 */
+    width: 150px;/*calc(200px * 1.414); /* Relación A4 */
     overflow: hidden;
-    margin: 5 10px; /* Espacio entre imágenes */
+    margin: 5px; /* Espacio entre imágenes */
     vertical-align: top;
   }
   .image-container img {
     height: 100%;
     width: auto;
     display: block;
-    border-radius: 10; /* Elimina cualquier borde redondeado */
+    border-radius: 0; /* Elimina cualquier borde redondeado */
     margin: 0;
     padding: 0;
   }
@@ -28,17 +28,27 @@ title: Obras realizadas
 
 # Tipos de proyectos que hacemos
 
-Algunos de ==Nuestros proyectos==
+Algunos de Nuestros proyectos
 
 <p align="center">
-  <a href="/tags/automatización" class="image-container">
-    <img src="imagenes\Estadio_Malvinas.jpg" alt="Imagen 1" >
-  </a>
+
   <a href="/tags/infraestructura" class="image-container">
-    <img src="imagenes\Patin_Villicum.webp" alt="Imagen 2" />
+    <img src="imagenes\Tipo_Proyectos\Infraestructura.png" alt="Infraestructura" />
   </a>
-  <a href="/tags/construcción" class="image-container">
-    <img src="imagenes\Flora Bistro.jpeg" alt="Imagen 3" />
+  <a href="/tags/automatización" class="image-container">
+    <img src="imagenes\Tipo_Proyectos\Automatizacion.png" alt="Automatizacion" >
+  </a>
+    <a href="/tags/vial" class="image-container">
+    <img src="imagenes\Tipo_Proyectos\vial.png" alt="vial" />
+  </a>
+  <a href="/tags/arquitectura" class="image-container">
+    <img src="imagenes\Tipo_Proyectos\Arquitectura.png" alt="Arquitectura" />
+  </a>
+    <a href="/tags/inspección" class="image-container">
+    <img src="imagenes\Tipo_Proyectos\inspeccion.png" alt="inspeccion" />
+  </a>
+      <a href="/tags/plantasTratamiento" class="image-container">
+    <img src="imagenes\Tipo_Proyectos\plantasTratamiento.png" alt="plantas Tratamiento" />
   </a>
 </p>
 
@@ -46,19 +56,19 @@ Algunos de ==Nuestros proyectos==
 
 <p align="center">
   <a href="/Otros/Canal---Benavidez" class="image-container">
-    <img src="imagenes\Benavides_1.png" alt="Imagen 2" />
+    <img src="imagenes\ImagenesPortada\Benavidez_Cuadrada.png" alt="Imagen" />
   </a>
     <a href="Otros/Autodromo-Villicum---Race-Control" class="image-container">
-    <img src="imagenes\Race Control.jpg" alt="Imagen 1" >
+    <img src="imagenes\ImagenesPortada\RaceControl_Cuadrada.png" alt="Imagen" >
   </a>
-  <a href="A--CONSULTORA/02--Obras/04--Riego-estadio-Malvinas/Riego-estadio-mavinas-Argentinas" class="image-container">
-    <img src="imagenes\Estadio_Malvinas.jpg" alt="Imagen 1" >
+  <a href="/A--CONSULTORA/02--Obras/04--Riego-estadio-Malvinas/Riego-Malvinas" class="image-container">
+    <img src="imagenes\ImagenesPortada\Malvinas_Cuadrada.png" alt="Imagen" >
   </a>
   <a href="/A--CONSULTORA/02--Obras/17--Reparación-dique-Cauquenes/Dique-cauquenes" class="image-container">
-    <img src="https://drive.google.com/uc?export=view&id=169IMZ0vWBvtwvexwHuoO-zr3_8ICKEGI" alt="Imagen 2" />
+    <img src="imagenes\ImagenesPortada\Cauquenes_Cuadrada.png" alt="Imagen" />
   </a>
   <a href="/Otros/Construccion-departamentos" class="image-container">
-    <img src="imagenes\Departamento_4.jpg" alt="Imagen 2" />
+    <img src="imagenes\ImagenesPortada\Deptos_Cuadrada.png" alt="Imagen" />
   </a>
 </p>
 
@@ -74,4 +84,4 @@ Algunos de ==Nuestros proyectos==
 
 ---
 
-#automatización #infraestructura #vial #arquitectura #inspección
+#automatización #infraestructura #vial #arquitectura #inspección #plantasTratamiento
