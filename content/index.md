@@ -39,13 +39,13 @@ Algunos de Nuestros proyectos
     <img src="imagenes\Tipo_Proyectos\Automatizacion.png" alt="Automatizacion" >
   </a>
     <a href="/tags/vial" class="image-container">
-    <img src="imagenes\Tipo_Proyectos\vial.png" alt="vial" />
+    <img src="imagenes\Tipo_Proyectos\Vial.png" alt="vial" />
   </a>
   <a href="/tags/arquitectura" class="image-container">
     <img src="imagenes\Tipo_Proyectos\Arquitectura.png" alt="Arquitectura" />
   </a>
     <a href="/tags/inspección" class="image-container">
-    <img src="imagenes\Tipo_Proyectos\inspeccion.png" alt="inspeccion" />
+    <img src="imagenes\Tipo_Proyectos\Inspeccion.png" alt="inspeccion" />
   </a>
       <a href="/tags/plantasTratamiento" class="image-container">
     <img src="imagenes\Tipo_Proyectos\plantasTratamiento.png" alt="plantas Tratamiento" />
