@@ -4,8 +4,6 @@
 
 Desde Dirección de HIdráulica de San Juan se planteo determinar obras de protección y defensa aluvional para evitar cortes en el suministro de agua de riego de los usuarios. 
 
-![alt text](Modelado_Hidrológico.png)
-
 ```mermaid
 graph LR
     A(Modelado Hidrológico) --> B(Métodos numéricos)
