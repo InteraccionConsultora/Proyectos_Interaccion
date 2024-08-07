@@ -55,19 +55,19 @@ Algunos de Nuestros proyectos
 # Alguno de nuestros proyectos
 
 <p align="center">
-  <a href="/Otros/Canal---Benavidez" class="image-container">
+  <a href="2020\Canal---Benavidez.md" class="image-container">
     <img src="imagenes\ImagenesPortada\Benavidez_Cuadrada.png" alt="Imagen" />
   </a>
-    <a href="Otros/Autodromo-Villicum---Race-Control" class="image-container">
+    <a href="2020\Autodromo-Villicum---Race Control.md" class="image-container">
     <img src="imagenes\ImagenesPortada\RaceControl_Cuadrada.png" alt="Imagen" >
   </a>
-  <a href="/A--CONSULTORA/02--Obras/04--Riego-estadio-Malvinas/Riego-Malvinas" class="image-container">
+  <a href="2021\Riego-Malvinas.md" class="image-container">
     <img src="imagenes\ImagenesPortada\Malvinas_Cuadrada.png" alt="Imagen" >
   </a>
-  <a href="/A--CONSULTORA/02--Obras/17--Reparación-dique-Cauquenes/Dique-cauquenes" class="image-container">
+  <a href="2023/Dique-cauquenes" class="image-container">
     <img src="imagenes\ImagenesPortada\Cauquenes_Cuadrada.png" alt="Imagen" />
   </a>
-  <a href="/Otros/Construccion-departamentos" class="image-container">
+  <a href="2024/Construccion-departamentos" class="image-container">
     <img src="imagenes\ImagenesPortada\Deptos_Cuadrada.png" alt="Imagen" />
   </a>
 </p>
