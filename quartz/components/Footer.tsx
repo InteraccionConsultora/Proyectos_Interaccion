@@ -16,7 +16,7 @@ export default ((opts?: Options) => {
         <hr />
         <p>
           Creado por
-          <a href="https://www.interaccionconsultora.com/"> Interacción Consultora </a> y <a href="https://www.interaccionconsultora.com/"> Cielo Ferrer diseño gráfico </a>
+          <a href="https://www.interaccionconsultora.com/"> Interacción Consultora </a> y <a href="https://wa.link/wquu1n"> Cielo Ferrer diseño gráfico </a>
           con tecnología <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
 
