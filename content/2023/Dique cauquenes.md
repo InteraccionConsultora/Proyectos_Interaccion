@@ -1,4 +1,4 @@
-El [embalse cauquenes](https://es.wikipedia.org/wiki/Embalse_Cauquenes_(Argentina)) ubicado a 180 km de la ciudad de San Juan, es generado por una represa sobre el Rio Huaco, la represa Cauquenes, esta es utilizada principalmente para tareas de riego en el Valle de Jáchal.
+El [embalse Cauquenes](https://es.wikipedia.org/wiki/Embalse_Cauquenes_(Argentina)) ubicado a 180 km de la ciudad de San Juan, es generado por una represa sobre el Rio Huaco, la represa Cauquenes, esta es utilizada principalmente para tareas de riego en el Valle de Jáchal.
 
 Esta represa ya tiene varios años desde su construcción, y con el tiempo los sedimentos generados hicieron que se tapen los conductos de esta represa.
 
