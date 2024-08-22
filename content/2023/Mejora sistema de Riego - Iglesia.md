@@ -7,7 +7,7 @@ Desde Dirección de HIdráulica de San Juan se planteo determinar obras de prot
 ```mermaid
 graph LR
     A(Modelado Hidrológico) --> B(Métodos numéricos)
-    B --> D(Determinacion Obras)
+    B --> D(Determinación Obras)
 ```
 
 ## Modelado hidrológico y determinación de caudales
@@ -28,4 +28,4 @@ En total, se proyectaron 11 obras de modificación en los canales de Buena Esper
 Se realizan los proyectos ejecutivos y se colabora con el armado del pliego licitatorio para la concesión de los mismos.
 
 ---
-#hidráulica 
+#hidráulica  #ElaboraciónProyectos

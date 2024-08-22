@@ -28,4 +28,4 @@ Se trabajo en principalmente en lo relacionado a infraestructura, esto es:
 
 ---
 
-#infraestructura
+#infraestructura  #ElaboraciónProyectos

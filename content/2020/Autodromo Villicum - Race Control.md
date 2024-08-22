@@ -22,3 +22,5 @@ Interacción realizo la construcción del Race control en este autódromo.
 #infraestructura
 
 #automatización
+
+#Construcción

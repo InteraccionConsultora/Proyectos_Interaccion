@@ -28,7 +28,29 @@ title: Obras realizadas
 
 # Tipos de proyectos que hacemos
 
-Algunos de Nuestros proyectos
+<p align="center">
+
+  <!--a href="/tags/ConsultoriaObras" class="image-container">
+    <img src="imagenes\Tipo_Proyectos\Inspeccion.png" alt="ConsultoriaObras" />
+  </a-->
+  <a href="/tags/inspección" class="image-container">
+    <img src="imagenes\Tipo_Proyectos\Inspeccion.png" alt="Inspeccion" />
+  </a>
+  <a href="/tags/elaboraciónproyectos" class="image-container">
+    <img src="imagenes\Tipo_Proyectos\PizarraBlanca_.png" alt="elaboraciónproyectos" /> 
+  </a>
+  <a href="/tags/Construcción" class="image-container">
+    <img src="imagenes\Tipo_Proyectos\Construccion_Cuadrada.png" alt="Construcción" /> 
+  </a>
+  <!--a href="/tags/Asesoramiento" class="image-container">
+    <img src="imagenes\Tipo_Proyectos\Inspeccion.png" alt="Asesoramiento" />
+  </a-->  
+  <a href="/tags/Servicios" class="image-container">
+    <img src="imagenes\Tipo_Proyectos\Servicios.png" alt="Servicios" />
+  </a>
+</p>
+
+# Rubros
 
 <p align="center">
 

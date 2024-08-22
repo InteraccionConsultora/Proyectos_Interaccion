@@ -1,5 +1,5 @@
 ---
-title: Seguimiento Obras Acueducto Gran Tulum, Tambillo y San Agustín
+title: Seguimiento Obras Acueducto Gran Tulúm, Tambillo y San Agustín
 ---
 
 EL OBJETO DE LA OBRA ES BENEFICIAR CON EL SISTEMA DE CLOACAS A LA LOCALIDAD DE VILLA SAN AGUSTÍN DPTO. VALLE FÉRTIL. 
@@ -10,7 +10,7 @@ Comitente: Obras Sanitarias Sociedad del Estado San Juan.
 
 Características: Proceso de Revisión y Acompañamiento de la
 
-- Gestión para Controlar, Revisar y Coordinar la Aprobación del Proyecto Ejecutivo para la Construcción del Acueducto Gran Tulum.
+- Gestión para Controlar, Revisar y Coordinar la Aprobación del Proyecto Ejecutivo para la Construcción del Acueducto Gran Tulúm.
   
 - Control y aprobación de Proyecto definitivo y de detalle. Coordinación de todos los contratos relacionados, incluyendo fabricación de caños, soldadura de A°I°.
   
@@ -43,4 +43,4 @@ Características: Proceso de Revisión y Acompañamiento de la
 - Organización de la revisión de los Ensayos y Verificaciones Finales para la Puesta en Servicio.
 
 ---
-#hidráulica #infraestructura
+#hidráulica #infraestructura #inspección

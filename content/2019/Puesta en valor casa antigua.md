@@ -13,4 +13,4 @@ Se trabajo principalmente en:
  * Terminaciones interiores
 
 ## Etiquetas
-#arquitectura
+#arquitectura  #Construcción

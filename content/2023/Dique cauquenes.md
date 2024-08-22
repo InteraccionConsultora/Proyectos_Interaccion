@@ -18,6 +18,4 @@ Por la antigüedad de la represa, antes de quitar los sedimentos, se hicieron al
 
 # Etiquetas
 
-#hidráulica
-
-#infraestructura
+#hidráulica  #infraestructura  #Servicios

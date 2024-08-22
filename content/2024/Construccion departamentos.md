@@ -4,4 +4,4 @@ En Mendoza, Godoy cruz, se esta levantando un complejo de departamentos en los c
 
 
 ---
-#arquitectura
+#arquitectura  #Construcción
