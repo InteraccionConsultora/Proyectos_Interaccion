@@ -36,8 +36,8 @@ title: Obras realizadas
   <a href="/tags/inspección" class="image-container">
     <img src="imagenes\Tipo_Proyectos\Inspeccion.png" alt="Inspeccion" />
   </a>
-  <a href="/tags/elaboraciónproyectos" class="image-container">
-    <img src="imagenes\Tipo_Proyectos\PizarraBlanca_.png" alt="elaboraciónproyectos" /> 
+  <a href="/tags/ElaboraciónProyectos" class="image-container">
+    <img src="imagenes\Tipo_Proyectos\PizarraBlanca_.png" alt="ElaboraciónProyectos" /> 
   </a>
   <a href="/tags/Construcción" class="image-container">
     <img src="imagenes\Tipo_Proyectos\Construccion_Cuadrada.png" alt="Construcción" /> 
