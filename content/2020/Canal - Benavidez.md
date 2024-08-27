@@ -14,7 +14,7 @@ En el marco de ampliación del canal, Interacción hizo una propuesta de mejora 
 * Al diseño se le incorpora estructuras que deben mantenerse
 * Tres estaciones Generadoras
 * Obra de Cruce Bajo ruta 40
-* Da continuidad a una Ciclovía en toda la obra
+* Da continuidad a una ciclovía en toda la obra
 * Satisfacer los caudales previstos en cada punto solicitados por Hidráulica
 
 ![imagen 1](../imagenes/Benavides_2.png)

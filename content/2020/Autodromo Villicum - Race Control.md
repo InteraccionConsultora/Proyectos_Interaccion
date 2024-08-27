@@ -1,7 +1,7 @@
 
 ![Circuito San Juan](../imagenes/tc-san-juan.jpg)
 
-El [circuito San Juan Villicum](https://es.wikipedia.org/wiki/Circuito_San_Juan_Villicum) es un autódromo internacional ubicado en la provincia de San Juan, Argentina. Tiene una longitud de 4.254 metros. Presenta constantes subidas y bajadas a lo largo del trazado, generadas artificialmente con un movimiento de suelo superior a los 700 000 m³.
+El [Circuito San Juan Villicum](https://es.wikipedia.org/wiki/Circuito_San_Juan_Villicum) es un autódromo internacional ubicado en la provincia de San Juan, Argentina. Tiene una longitud de 4.254 metros. Presenta constantes subidas y bajadas a lo largo del trazado, generadas artificialmente con un movimiento de suelo superior a los 700 000 m³.
 
 En este circuito se celebran carreras como:
 * Campeonato mundial de Superbikes

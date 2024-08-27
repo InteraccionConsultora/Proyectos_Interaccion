@@ -2,7 +2,7 @@
 
 ![Imagen Estadio](../../../imagenes/Estadio_Malvinas.jpg)
 
-El Estadio Malvinas Argentinas, es un recinto de futbol y esta ubicado en la provincia de Mendoza, tiene capacidad de 42 000 expectadores y ha sido sede de numerosos eventos deportivos de escala mundial, como lo han sido:
+El Estadio Malvinas Argentinas, es un recinto de futbol y esta ubicado en la provincia de Mendoza, tiene capacidad de 42 000 espectadores y ha sido sede de numerosos eventos deportivos de escala mundial, como lo han sido:
 
 * Copa Mundial FIFA de 1978
 * Mundial de Rugby sub-21 en 2005

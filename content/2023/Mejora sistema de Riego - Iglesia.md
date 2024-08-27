@@ -12,7 +12,7 @@ graph LR
 
 ## Modelado hidrológico y determinación de caudales
 Se utilizo un método propuesto por el servicio de conservación de suelos de EEUU, el cual es un estandar en este tipo de estudios.
-Se utilizaron 2 softwares en conjunto para poder aplicar este método, con el primero mediante el estandar de shapefile se obtubieron los detalles geográficos. Un segundo software se utilizo para la simulación numérica propiamente dicha, con la que se llego a los caudales de crecida para diseñar las obras de protección.
+Se utilizaron 2 softwares en conjunto para poder aplicar este método, con el primero mediante el estandar de shapefile se obtuvieron los detalles geográficos. Un segundo software se utilizo para la simulación numérica propiamente dicha, con la que se llego a los caudales de crecida para diseñar las obras de protección.
 
 Para esto, se realizaron estudios hidrológicos detallados de los cauces aluvionales que afectaban el sistema de canalización del departamento. 
 
