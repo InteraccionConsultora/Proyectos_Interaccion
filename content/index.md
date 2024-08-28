@@ -37,10 +37,10 @@ title: Obras realizadas
     <img src="imagenes\Tipo_Proyectos\Inspeccion.png" alt="Inspeccion" />
   </a>
   <a href="/tags/ElaboraciónProyectos" class="image-container">
-    <img src="imagenes\Tipo_Proyectos\PizarraBlanca_.png" alt="ElaboraciónProyectos" /> 
+    <img src="imagenes\Tipo_Proyectos\Elaboración Proyectos.png" alt="ElaboraciónProyectos" /> 
   </a>
   <a href="/tags/Construcción" class="image-container">
-    <img src="imagenes\Tipo_Proyectos\Construccion_Cuadrada.png" alt="Construcción" /> 
+    <img src="imagenes\Tipo_Proyectos\Construcción.png" alt="Construcción" /> 
   </a>
   <!--a href="/tags/Asesoramiento" class="image-container">
     <img src="imagenes\Tipo_Proyectos\Inspeccion.png" alt="Asesoramiento" />
